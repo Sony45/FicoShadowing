@@ -1,0 +1,31 @@
+.checkoutAd{
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  .subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    p{
+      margin-top: 0;
+    }
+    button{
+      padding: 13px;
+      background-color: #00aae4;
+      border: 1px solid #00aae4;
+      color: #fff;
+      cursor: pointer;
+      border-radius: 20px;
+    }
+  }
+  img{
+    max-width: 100%;
+    height: auto;
+  }
+}
