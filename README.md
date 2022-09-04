@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# FicoShadowing App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Puedes correr esta App localmente con los comandos:
+-npm install
+-npm start 
+
+o ver la prueba en el hosting:
+https://ficoshadowing.web.app/
 
 ## Available Scripts
 
